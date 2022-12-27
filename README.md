@@ -1,16 +1,8 @@
-# lyryc_app
+# Lyryc: A Lyrical Image Caption Generator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![slide1](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0001.jpg)
+![slide2](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0002.jpg)
+![slide3](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0003.jpg)
+![slide4](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0004.jpg)
+![slide5](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0005.jpg)
+![slide6](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0006.jpg)
