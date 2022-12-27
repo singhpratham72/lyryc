@@ -1,5 +1,7 @@
 # Lyryc: A Lyrical Image Caption Generator
 
+Please find the ML module of the project [here](https://github.com/singhpratham72/CS1390.git).
+
 ![slide1](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0001.jpg)
 ![slide2](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0002.jpg)
 ![slide3](https://github.com/singhpratham72/Lyryc/blob/c8fe0506ef7983cbe3e42bc5db91f4e9e8a6a7ad/lyrycslides/Lyryc_page-0003.jpg)
